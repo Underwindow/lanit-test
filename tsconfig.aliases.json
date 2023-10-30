@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@assets/*": ["assets/*"],
+      "@styles/*": ["styles/*"],
+      "@components/*": ["components/*"],
+      "@context/*": ["context/*"],
+      "@paths/*": ["paths/*"],
+      "@pages/*": ["pages/*"],
+      "@api": ["API.ts"],
+      "@services/*": ["services/*"],
+      "@clients/*": ["clients/*"],
+      "@helpers/*": ["helpers/*"],
+      "@mock/*": ["mock/*"],
+      "@hooks/*": ["hooks/*"],
+      "@models/*": ["models/*"],
+      "@store/*": ["store/*"]
+    }
+  }
+}
